@@ -33,6 +33,18 @@
     <ClCompile Include="Chapter4\Chapter4_Exercises.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter5\Chapter5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter5\Ch5_Ex2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter5\Chapter5_Ex3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6\Chapter6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TwoSum\TwoSum-Brute.h">
@@ -69,6 +81,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Chapter4\Chapter4_Exercises.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter5\Chapter5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
